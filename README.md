@@ -1,1 +1,10 @@
-<title>This is my first project using portugol</title>
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>my first project in portugol, HELLO WORLD!</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    Aqui vai o código HTML que fará seu site aparecer.
+  </body>
+</html>
