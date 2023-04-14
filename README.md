@@ -1,3 +1,3 @@
 # My first project in portugol 
 
-HELLO WORLD!
+> my intention is execute Hello World!
